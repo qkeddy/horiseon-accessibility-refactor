@@ -62,6 +62,7 @@ footer h2 {
 }
 
 /* Class Selectors */
+/* Set a special color for the primary Horiseon company name */
 header h1 .seo {
   color: #d9dcd6;
 }

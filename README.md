@@ -1,4 +1,4 @@
-# Horiseon Capabilites webpage refactor project
+# Horiseon Capabilities webpage refactor project
 
 ## Description
 Horiseon home page refactor to enable accessibility and improve overall code base. Key areas of focus were the following:
